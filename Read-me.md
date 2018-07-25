@@ -1,1 +1,1 @@
-# Portfolio read me file
+# About the Portfolio project
